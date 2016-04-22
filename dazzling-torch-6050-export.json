@@ -1,0 +1,78 @@
+{
+  "data" : {
+    "items" : [ {
+      "id" : "1",
+      "nama_sektor" : "Aplikasi dan Game Developer"
+    }, {
+      "id" : "2",
+      "nama_sektor" : "Arsitektur"
+    }, {
+      "id" : "3",
+      "nama_sektor" : "Desain Interior"
+    }, {
+      "id" : "4",
+      "nama_sektor" : "Desain Komunikasi Visual"
+    }, {
+      "id" : "5",
+      "nama_sektor" : "Desain Produk"
+    }, {
+      "id" : "6",
+      "nama_sektor" : "Fashion"
+    }, {
+      "id" : "7",
+      "nama_sektor" : "Film, Animasi dan Video"
+    }, {
+      "id" : "8",
+      "nama_sektor" : "Fotografi"
+    }, {
+      "id" : "9",
+      "nama_sektor" : "Kriya"
+    }, {
+      "id" : "10",
+      "nama_sektor" : "Kuliner"
+    }, {
+      "id" : "11",
+      "nama_sektor" : "Musik"
+    }, {
+      "id" : "12",
+      "nama_sektor" : "Penerbitan"
+    }, {
+      "id" : "13",
+      "nama_sektor" : "Periklanan"
+    }, {
+      "id" : "14",
+      "nama_sektor" : "Seni Pertunjukan"
+    }, {
+      "id" : "15",
+      "nama_sektor" : "Seni Rupa"
+    }, {
+      "id" : "16",
+      "nama_sektor" : "Televisi dan Radio"
+    } ],
+    "page" : "1",
+    "per_page" : 10,
+    "produk" : [ {
+      "gambar" : "https://im2.olx.biz.id/images_olxid/223151083_2_94x72_nissan-serena-ct-2011-perfect-condition-upload-foto.jpg",
+      "id" : "produk001",
+      "nama_produk" : "kulinerssssss"
+    }, {
+      "id" : "produk002",
+      "nama_produk" : "baju"
+    }, {
+      "id" : "produk003",
+      "nama_produk" : "gadget"
+    }, {
+      "id" : "produk003",
+      "nama_produk" : "mobil"
+    }, {
+      "id" : "produk004",
+      "nama_produk" : "rumah"
+    }, {
+      "id" : "produk006",
+      "nama_produk" : "jas hujan"
+    } ],
+    "total" : 16
+  },
+  "message" : "",
+  "success" : true
+}
